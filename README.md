@@ -1,2 +1,2 @@
 # Barbearia-Alura
-Projeto feito em aula.
+Primeiro projeto realizado em aula, utilizando HTML5 e CSS3
